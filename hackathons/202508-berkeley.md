@@ -6,7 +6,7 @@ title: "2025 August - Berkeley, CA"
 This page is a work in progress! Please check back soon for more details.
 :::
 
-We invite you to join a group (**roughly 25**) of brilliant and friendly developers,
+We invite you to join a group of **roughly 25** brilliant and friendly developers,
 researchers, and educators to hack on ideas & software to implement the
 [GeoJupyter](https://geojupyter.org) mission: to enable more researchers, educators, and
 learners to confidently interact with geospatial data in Jupyter.
