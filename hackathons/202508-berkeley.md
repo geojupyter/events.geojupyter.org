@@ -1,5 +1,5 @@
 ---
-title: "202508 - Berkeley, CA"
+title: "2025 August - Berkeley, CA"
 ---
 
 :::{attention}
