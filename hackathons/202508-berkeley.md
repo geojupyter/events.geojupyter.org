@@ -11,7 +11,8 @@ researchers, and educators to hack on ideas & software to implement the
 [GeoJupyter](https://geojupyter.org) mission: to enable more researchers, educators, and
 learners to confidently interact with geospatial data in Jupyter.
 
-**To participate, please contact us (see below) or fill out our application form (_TBD_)**
+**To participate, please contact us (see below) or
+[fill out our application form](https://forms.gle/5ykknEZdfHdKuKTv7)**
 
 
 ## Location
