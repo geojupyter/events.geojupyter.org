@@ -76,13 +76,9 @@ together, and break in to interest groups.
 
 **For developers who want to continue hacking on work from day 1, space will be provided.**
 
-| Time       | Activity                                           |
-|------------|---------------------------------------------------:|
-| 9:00 AM PT | Meet @ venue                                       |
-| 9-9:45 AM  | Introductions & icebreaker                         |
-| 10:30 AM   | Snacks & coffee provided                           |
-| 12:00 PM   | Lunch provided                                     |
-| 4:00 PM    | All done!                                          |
+:::{attention}
+Schedule to be determined!
+:::
 
 
 ### August 15 - Berkeley Geospatial Education Summit
