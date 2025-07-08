@@ -1,5 +1,5 @@
 ---
-title: "August 2025 Hackathon & User Forum (Berkeley, CA)"
+title: "August 2025 Hackathon & Design Dialog (Berkeley, CA)"
 ---
 
 :::{attention}
@@ -68,7 +68,7 @@ Focus areas include, but are not limited to:
 If you have more ideas for hackathon focus areas, please contact us (see below)!
 
 
-### August 14, day 2 - User Forum
+### August 14, day 2 - Design Dialog
 
 Day 2 will be focused on use case & user experience development.
 Practitioners, educators, and developers will convene, identify areas of interest
