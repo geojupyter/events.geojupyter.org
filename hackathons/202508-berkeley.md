@@ -112,6 +112,6 @@ _TBD_ -- We may provide childcare. Let us know if this would help you participat
 
 ## Contact
 
-Please contact [Matt Fisher](mailto:matt.fisher@berkeley.edu) and/or 
+Please contact [Matt Fisher](mailto:matt.fisher@berkeley.edu) and/or
 [Ciera Martinez](ccmartinez@berkeley.edu) with any questions or feedback about this
 event!
