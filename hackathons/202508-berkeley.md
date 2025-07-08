@@ -1,5 +1,5 @@
 ---
-title: "2025 August - Berkeley, CA"
+title: "August 2025 Hackathon & User Forum (Berkeley, CA)"
 ---
 
 :::{attention}
@@ -32,7 +32,7 @@ August 13 & 14, 2025.
 We will start at 9AM Pacific Time each day, and finish at 4PM.
 
 
-### August 13, day 1 - hackathon
+### August 13, day 1 - Hackathon
 
 Day 1 will be focused on technical development.
 Developers will convene, break into focus areas (see below), and work together to explore
@@ -68,7 +68,7 @@ Focus areas include, but are not limited to:
 If you have more ideas for hackathon focus areas, please contact us (see below)!
 
 
-### August 14, day 2 - forum
+### August 14, day 2 - User Forum
 
 Day 2 will be focused on use case & user experience development.
 Practitioners, educators, and developers will convene, identify areas of interest
