@@ -15,7 +15,7 @@ learners to confidently interact with geospatial data in Jupyter.
 dedicated to gathering input from geospatial educators and practitioners.**
 
 **To participate, please contact us (see below) or
-[fill out our application form](https://forms.gle/5ykknEZdfHdKuKTv7)**
+[fill out our registration form](https://forms.gle/5ykknEZdfHdKuKTv7)**.
 
 
 ## Location
