@@ -19,6 +19,7 @@ jobs:
       - uses: 'readthedocs/actions/preview@v1'
         with:
           project-slug: 'geojupyter-events'
+          single-version: true
           message-template: |
             ---
             :mag: Preview: {docs-pr-index-url}
