@@ -2,6 +2,11 @@ body {
   font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
 
+.center-contents {
+  display: grid;
+  place-items: center;
+}
+
 /* Make the content area wider for large screens (huge thanks @agoose77) */
 @media (min-width:1536px) {
   [class*=article-grid] {
