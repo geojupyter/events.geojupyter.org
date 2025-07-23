@@ -24,7 +24,7 @@ environments:
       - conda: https://conda.anaconda.org/conda-forge/linux-64/libuuid-2.38.1-h0b41bf4_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/libuv-1.50.0-hb9d3cd8_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/libzlib-1.3.1-hb9d3cd8_2.conda
-      - conda: https://conda.anaconda.org/conda-forge/noarch/mystmd-1.5.1-pyhe01879c_0.conda
+      - conda: https://conda.anaconda.org/conda-forge/noarch/mystmd-1.6.0-pyhe01879c_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.5-h2d0b736_3.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/nodejs-22.13.0-hf235a45_0.conda
       - conda: https://conda.anaconda.org/conda-forge/linux-64/openssl-3.5.0-h7b32b05_1.conda
@@ -229,17 +229,17 @@ packages:
   license_family: Other
   size: 60963
   timestamp: 1727963148474
-- conda: https://conda.anaconda.org/conda-forge/noarch/mystmd-1.5.1-pyhe01879c_0.conda
-  sha256: e41f786e21574dd21d98564fed210fb8b351de95254cd005d9d1fa1c88702fff
-  md5: f513ee75eee8143e300f42642292e447
+- conda: https://conda.anaconda.org/conda-forge/noarch/mystmd-1.6.0-pyhe01879c_0.conda
+  sha256: af96d2215a9c26a5ff45ab4bc6c785900d3333520cb761dd7bc6e6e70a596a5a
+  md5: 51d740b575c222c9aa0bbd9b34d15066
   depends:
   - python >=3.9
   - nodejs >=18
   - python
   license: MIT
   license_family: MIT
-  size: 2163865
-  timestamp: 1751692750216
+  size: 2164242
+  timestamp: 1753139314118
 - conda: https://conda.anaconda.org/conda-forge/linux-64/ncurses-6.5-h2d0b736_3.conda
   sha256: 3fde293232fa3fca98635e1167de6b7c7fda83caf24b9d6c91ec9eefb4f4d586
   md5: 47e340acb35de30501a76c7c799c41d7
