@@ -65,7 +65,7 @@ Practitioners, educators, and developers will convene, identify areas of interes
 together, and break in to interest groups.
 
 :::{important}
-**For developers who want to continue hacking on work from day 1, space will be provided starting at 9AM.**
+For developers who want to continue hacking on work from day 1, space will be provided starting at 9AM.
 :::
 
 | Time        | Activity             |
