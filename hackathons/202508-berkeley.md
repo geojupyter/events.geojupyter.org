@@ -64,11 +64,16 @@ Day 2 will be focused on use case & user experience development.
 Practitioners, educators, and developers will convene, identify areas of interest
 together, and break in to interest groups.
 
-**For developers who want to continue hacking on work from day 1, space will be provided.**
-
-:::{attention}
-Schedule to be determined!
+:::{important}
+**For developers who want to continue hacking on work from day 1, space will be provided starting at 9AM.**
 :::
+
+| Time        | Activity             |
+|-------------|---------------------:|
+| 10:30 AM PT | Morning session      |
+| 12:00 PM    | Lunch provided       |
+| 1:00 PM     | Afternoon session    |
+| 2:00 PM     | Done for the day!    |
 
 
 ### August 15 - Berkeley Geospatial Education Summit
