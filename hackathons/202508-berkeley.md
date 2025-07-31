@@ -92,7 +92,9 @@ this event.
 
 Lunch, coffee, and snacks will be provided!
 
-_TBD_ -- We may provide childcare. Let us know if this would help you participate.
+We will have a kitchen at the venue.
+
+We'll have multiple meeting spaces, one with conferencing equipment.
 
 
 ## Please bring
