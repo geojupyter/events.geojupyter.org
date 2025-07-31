@@ -38,15 +38,15 @@ Day 1 will be focused on technical development.
 Developers will convene, break into focus areas (see below), and work together to explore
 problems, and design and develop solutions.
 
-| Time       | Activity                              |
-|------------|--------------------------------------:|
-| 9:00 AM PT | Meet @ venue                          |
-| 9-9:45 AM  | Introductions & icebreaker            |
-| 10:30 AM   | Snacks & coffee provided              |
-| 12:00 PM   | Discussion break - **Lunch provided** |
-| 2:30 PM    | Snacks & coffee provided              |
-| 4:00 PM    | Done for the day!                     |
-| 6:00 PM    | Dinner provided                       |
+| Time       | Activity                                 |
+|------------|-----------------------------------------:|
+| 9:00 AM PT | Meet @ venue                             |
+| 9-9:45 AM  | Introductions & icebreaker               |
+| 10:30 AM   | Check-in - **Snacks & coffee provided**  |
+| 12:00 PM   | Discussion break - **Lunch provided**    |
+| 2:30 PM    | Check-in - **Snacks & coffee provided**  |
+| 4:00 PM    | Done for the day!                        |
+| 6:00 PM    | **Dinner provided**                      |
 
 
 #### Activities
