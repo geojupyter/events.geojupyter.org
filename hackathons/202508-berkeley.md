@@ -38,34 +38,24 @@ Day 1 will be focused on technical development.
 Developers will convene, break into focus areas (see below), and work together to explore
 problems, and design and develop solutions.
 
-| Time       | Activity                   |
-|------------|---------------------------:|
-| 9:00 AM PT | Meet @ venue               |
-| 9-9:45 AM  | Introductions & icebreaker |
-| 10:30 AM   | Snacks & coffee provided   |
-| 12:00 PM   | Lunch provided             |
-| 2:30 PM    | Snacks & coffee provided   |
-| 4:00 PM    | Done for the day!          |
+| Time       | Activity                                 |
+|------------|-----------------------------------------:|
+| 9:00 AM PT | Meet @ venue                             |
+| 9-9:45 AM  | Introductions & icebreaker               |
+| 10:30 AM   | Check-in - **Snacks & coffee provided**  |
+| 12:00 PM   | Discussion break - **Lunch provided**    |
+| 2:30 PM    | Check-in - **Snacks & coffee provided**  |
+| 4:00 PM    | Done for the day!                        |
+| 6:00 PM    | **Dinner provided**                      |
 
 
-#### Focus areas
+#### Activities
 
-Focus areas include, but are not limited to:
+Please view our
+[developer planning document](https://docs.google.com/document/d/10PqpCnGPAzJFkaCAfaQRbS3x0Y89JzbpgBzOXdxOpvU/edit?tab=t.0)
+for a tentative list of activities.
 
-* Design and development of a reproducible "processing toolbox" for
-  [JupyterGIS](https://jupytergis.readthedocs.io/).
-  How do we enable users to run processing operations (for example buffering, finding
-  centroids, or generating contours) in the visual GIS environment, and record those
-  operations for inclusion in a notebook that can be reproducibly executed from
-  top-to-bottom?
-* Designing for [JupyterGIS](https://jupytergis.readthedocs.io/) interoperability with
-  other tools in the scientific Python ecosystem.
-  For example, how do we move vector data bi-directionally between a GIS project and a
-  Python Notebook?
-* Solidifying the [JupyterGIS](https://jupytergis.readthedocs.io/) Python API for
-  ergonomics and future evolution?
-
-If you have more ideas for hackathon focus areas, please contact us (see below)!
+If you have more ideas or thoughts, please comment or add to the document!
 
 
 ### August 14, day 2 - Design Dialog
@@ -74,11 +64,16 @@ Day 2 will be focused on use case & user experience development.
 Practitioners, educators, and developers will convene, identify areas of interest
 together, and break in to interest groups.
 
-**For developers who want to continue hacking on work from day 1, space will be provided.**
-
-:::{attention}
-Schedule to be determined!
+:::{important}
+For developers who want to continue hacking on work from day 1, space will be provided starting at 9AM.
 :::
+
+| Time        | Activity             |
+|-------------|---------------------:|
+| 10:30 AM PT | Morning session      |
+| 12:00 PM    | Lunch provided       |
+| 1:00 PM     | Afternoon session    |
+| 2:00 PM     | Done for the day!    |
 
 
 ### August 15 - Berkeley Geospatial Education Summit
@@ -97,7 +92,9 @@ this event.
 
 Lunch, coffee, and snacks will be provided!
 
-_TBD_ -- We may provide childcare. Let us know if this would help you participate.
+We will have a kitchen at the venue.
+
+We'll have multiple meeting spaces, one with conferencing equipment.
 
 
 ## Please bring
