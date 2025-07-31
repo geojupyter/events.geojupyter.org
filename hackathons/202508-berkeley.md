@@ -49,24 +49,13 @@ problems, and design and develop solutions.
 | 6:00 PM    | Dinner provided              |
 
 
-#### Focus areas
+#### Activities
 
-Focus areas include, but are not limited to:
+Please view our
+[developer planning document](https://docs.google.com/document/d/10PqpCnGPAzJFkaCAfaQRbS3x0Y89JzbpgBzOXdxOpvU/edit?tab=t.0)
+for a tentative list of activities.
 
-* Design and development of a reproducible "processing toolbox" for
-  [JupyterGIS](https://jupytergis.readthedocs.io/).
-  How do we enable users to run processing operations (for example buffering, finding
-  centroids, or generating contours) in the visual GIS environment, and record those
-  operations for inclusion in a notebook that can be reproducibly executed from
-  top-to-bottom?
-* Designing for [JupyterGIS](https://jupytergis.readthedocs.io/) interoperability with
-  other tools in the scientific Python ecosystem.
-  For example, how do we move vector data bi-directionally between a GIS project and a
-  Python Notebook?
-* Solidifying the [JupyterGIS](https://jupytergis.readthedocs.io/) Python API for
-  ergonomics and future evolution?
-
-If you have more ideas for hackathon focus areas, please contact us (see below)!
+If you have more ideas or thoughts, please comment or add to the document!
 
 
 ### August 14, day 2 - Design Dialog
