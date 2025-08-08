@@ -158,6 +158,7 @@ We'll have multiple meeting spaces, one with conferencing equipment.
 ## Please bring
 
 * A laptop or other portable computing device
+    * Charger
 * A reusable water bottle
 
 
