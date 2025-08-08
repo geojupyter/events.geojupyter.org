@@ -13,6 +13,14 @@ and learners to confidently interact with geospatial data in Jupyter.**
 :::
 
 
+## Code of Conduct
+
+The GeoJupyter project uses the [Project Jupyter Code of Conduct](https://github.com/jupyter/governance/blob/main/conduct/code_of_conduct.md).
+
+Any of the hackathon hosts (Matt, Ciera, Maryam, Maya, Lilli) are your points of contact
+for reporting.
+
+
 ## Location
 
 ### August 13, day 1
