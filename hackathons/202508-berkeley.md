@@ -82,11 +82,18 @@ width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
 referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
+## Activities / tasks
+
+Please view our
+[developer planning document](https://docs.google.com/document/d/10PqpCnGPAzJFkaCAfaQRbS3x0Y89JzbpgBzOXdxOpvU/edit?tab=t.0)
+for a tentative list of activities.
+
+If you have more ideas or thoughts, please comment or add to the document!
+
+
 ## Schedule
 
-August 13 & 14, 2025.
-
-We will start at 9AM Pacific Time each day, and finish at 4PM.
+We will start at 9AM Pacific Time each day, and finish by 5PM.
 
 
 ### August 13, day 1
@@ -95,24 +102,15 @@ Day 1 will be focused on technical development.
 Developers will convene, break into focus areas (see below), and work together to explore
 problems, and design and develop solutions.
 
-| Time       | Activity                                 |
-|------------|-----------------------------------------:|
-| 9:00 AM PT | Meet @ venue                             |
-| 9-9:45 AM  | Introductions & icebreaker               |
-| 10:30 AM   | Check-in - **Snacks & coffee provided**  |
-| 12:00 PM   | Discussion break - **Lunch provided**    |
-| 2:30 PM    | Check-in - **Snacks & coffee provided**  |
-| 4:00 PM    | Done for the day!                        |
-| 6:00 PM    | **Dinner provided**                      |
-
-
-#### Activities
-
-Please view our
-[developer planning document](https://docs.google.com/document/d/10PqpCnGPAzJFkaCAfaQRbS3x0Y89JzbpgBzOXdxOpvU/edit?tab=t.0)
-for a tentative list of activities.
-
-If you have more ideas or thoughts, please comment or add to the document!
+| Time            | Activity                                 |
+|-----------------|-----------------------------------------:|
+| 9:00 AM PT      | Meet @ venue                             |
+| 9-9:30 AM       | Introductions                            |
+| 10:30 AM        | Check-in - **Coffee & snacks provided**  |
+| 12:00-1:00 PM   | Discussion break - **Lunch provided**    |
+| 2:30 PM         | Check-in - **Coffee & snacks provided**  |
+| 4:30 PM         | Done for the day!                        |
+| 6:15 PM         | **Dinner provided**                      |
 
 
 ### August 14, day 2
@@ -127,10 +125,13 @@ For developers who want to continue hacking on work from day 1, space will be pr
 
 | Time        | Activity             |
 |-------------|---------------------:|
-| 10:30 AM PT | Morning session      |
-| 12:00 PM    | Lunch provided       |
-| 1:00 PM     | Afternoon session    |
-| 2:00 PM     | Done for the day!    |
+| 9:00 AM PT  | Welcome! Let's hack! |
+| 11:00 AM    | Design dialog        |
+| 12:00 PM    | **Lunch provided**   |
+| 1:00 PM     | Design dialog        |
+| 2:00 PM     | More time to hack    |
+| 3:00 PM     | Wrap-up              |
+| 4:00 PM     | Done for the day!    |
 
 
 ### August 15 - Berkeley Geospatial Education Summit
