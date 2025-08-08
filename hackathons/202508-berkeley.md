@@ -13,6 +13,11 @@ dedicated to gathering input from geospatial educators and practitioners.**
 **To participate, please contact us (see below) or
 [fill out our registration form](https://forms.gle/8GkAyTvSrJ9it9J39)**.
 
+:::{toc}
+:context: page
+:maxdepth: 1
+:::
+
 
 ## Location
 
