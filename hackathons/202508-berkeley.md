@@ -42,7 +42,7 @@ width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
 referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 :::{important}
-Entry requires keycard.
+**Entry requires keycard.**
 Someone will be at the door to greet you!
 If you somehow get stuck outside, you can find contact numbers in the calendar invite
 for this event.
