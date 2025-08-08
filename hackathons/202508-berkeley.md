@@ -21,6 +21,13 @@ Any of the hackathon hosts (Matt, Ciera, Maryam, Maya, Lilli) are your points of
 for reporting.
 
 
+### Sharing policy
+
+We encourage you to share your own stories from this event on social media!
+
+However, please **do not share about other participants without their consent**.
+
+
 ## Location
 
 ### August 13, day 1
