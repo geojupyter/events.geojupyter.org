@@ -24,8 +24,15 @@ for reporting.
 ### Sharing policy
 
 We encourage you to share your own stories from this event on social media!
+Please **do not share about other participants without their consent**.
 
-However, please **do not share about other participants without their consent**.
+
+### Photography policy
+
+The color of the nametag you choose at the door will indicate whether you consent to be
+photographed.
+**Blue** nametags indicate consent to be photographed.
+**Red** nametags indicate non-consent.
 
 
 ## Location
