@@ -16,9 +16,35 @@ dedicated to gathering input from geospatial educators and practitioners.**
 
 ## Location
 
-At the University of California, Berkeley.
+### August 13, day 1
 
-_TBD_ -- either in Wellman Hall on campus, or the AI Futures Lab just off-campus.
+[**AI Futures Lab, WeWork. 2120 University Ave, Berkeley, CA 94704**](https://maps.app.goo.gl/rRqHhC7U5tHA46sKA)
+
+Take the elevator to the 7th floor!
+
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6483.69378191341!2d-122.27084681756622!3d37.87064455646541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857e9e662ebf55%3A0x94aecca207e853b0!2sWeWork%20Office%20Space%20%26%20Coworking!5e0!3m2!1sen!2sus!4v1754622092468!5m2!1sen!2sus"
+width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+:::{important}
+Entry requires keycard.
+Someone will be at the door to greet you!
+If you somehow get stuck outside, you can find contact numbers in the calendar invite
+for this event.
+:::
+
+
+### August 14, day 2
+
+[**Wellman Hall. Wickson Loop, Berkeley, CA 94720**](https://maps.app.goo.gl/VGXnwWkbzwnrwJ5u8)
+
+Head up the stairs to find room 210.
+
+<iframe
+src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12597.797526992419!2d-122.27306637496793!3d37.87317215323613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857c20d77c84bb%3A0x1ddb86f685917787!2sWellman%20Hall%2C%20Wickson%20Loop%2C%20Berkeley%2C%20CA%2094720!5e0!3m2!1sen!2sus!4v1754622005672!5m2!1sen!2sus"
+width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 
 ## Schedule
@@ -28,7 +54,7 @@ August 13 & 14, 2025.
 We will start at 9AM Pacific Time each day, and finish at 4PM.
 
 
-### August 13, day 1 - Hackathon
+### August 13, day 1
 
 Day 1 will be focused on technical development.
 Developers will convene, break into focus areas (see below), and work together to explore
@@ -54,7 +80,7 @@ for a tentative list of activities.
 If you have more ideas or thoughts, please comment or add to the document!
 
 
-### August 14, day 2 - Design Dialog
+### August 14, day 2
 
 Day 2 will be focused on use case & user experience development.
 Practitioners, educators, and developers will convene, identify areas of interest
