@@ -4,14 +4,8 @@ title: "August 2025 Hackathon & Design Dialog (Berkeley, CA)"
 
 We invite you to join a group of **roughly 25** brilliant and friendly developers,
 researchers, and educators to develop ideas & software to implement the
-[GeoJupyter](https://geojupyter.org) mission: to enable more researchers, educators, and
-learners to confidently interact with geospatial data in Jupyter.
-
-**Our first day will be dedicated to technical development, and our second day will be
-dedicated to gathering input from geospatial educators and practitioners.**
-
-**To participate, please contact us (see below) or
-[fill out our registration form](https://forms.gle/8GkAyTvSrJ9it9J39)**.
+[GeoJupyter](https://geojupyter.org) mission: **to enable more researchers, educators,
+and learners to confidently interact with geospatial data in Jupyter.**
 
 :::{toc}
 :context: page
