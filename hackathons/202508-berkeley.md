@@ -35,6 +35,20 @@ photographed.
 **Red** nametags indicate non-consent.
 
 
+## Real-time chat
+
+We will use the
+[#geojupyter channel on the Jupyter Zulip](https://jupyter.zulipchat.com/#narrow/channel/471314-geojupyter)
+for real-time chat.
+Please sign up!
+This is our community's primary communication space.
+
+Please create new Zulip topics with descriptive titles when you have something to share
+or need help.
+At least one amazing community member in an overseas time zone will be able to provide
+assistance or even continue your work overnight!
+
+
 ## Location
 
 ### August 13, day 1
