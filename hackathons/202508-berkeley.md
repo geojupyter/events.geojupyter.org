@@ -2,6 +2,9 @@
 title: "August 2025 Hackathon & Design Dialog (Berkeley, CA)"
 ---
 
+:::{include} ../_event-complete.md
+:::
+
 We invite you to join a group of **roughly 25** brilliant and friendly developers,
 researchers, and educators to develop ideas & software to implement the
 [GeoJupyter](https://geojupyter.org) mission: **to enable more researchers, educators,
