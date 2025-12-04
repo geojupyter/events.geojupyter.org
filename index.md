@@ -5,10 +5,15 @@ title: "GeoJupyter events"
 ## Coming soon!
 
 :::{card}
-:header: [**JupyterCon 2025 in San Diego, CA**](conferences/jupytercon-2025.md)
-:footer: November 3-6, 2025
+:header: [**AGU 2025 in San Diego, CA**](conferences/2025-agu.md)
+:footer: December 15-19, 2025
 
 Please join us at
-[JupyterCon 2025 (November 3-5 in San Diego, CA)](https://blog.jupyter.org/jupytercon-2025-c654a31a584e)
-for a 3-hour workshop on November 3, and a sprint on November 6!
+[AGU 2025 (December 15-19 in New Orleans, LA)](https://www.agu.org/annual-meeting)
+for a
+[poster and oral presentation session on Tuesday, December 16](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/252486),
+a [full-day workshop on Thursday, December 18th](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/252640),
+and a
+[Town Hall session](https://agu.confex.com/agu/agu25/meetingapp.cgi/Session/252614)
+immediately following the workshop!
 :::
