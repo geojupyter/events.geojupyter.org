@@ -5,7 +5,7 @@ title: "GeoJupyter events"
 ## Coming soon!
 
 :::{card}
-:header: [**AGU 2025 in San Diego, CA**](conferences/2025-agu.md)
+:header: [**AGU 2025 in New Orleans, LA**](conferences/2025-agu.md)
 :footer: December 15-19, 2025
 
 Please join us at
